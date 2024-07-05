@@ -11,7 +11,7 @@ Este proyecto consiste en crear una web con 3 secciones cumpliendo ciertos requi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/MaxiValfre/prueba-tecnica-nextjs.git
 
 
 2. Instala las dependencias:
